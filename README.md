@@ -1,16 +1,5 @@
 # hotel_booking_ui
+![Untitled-11](https://user-images.githubusercontent.com/31065758/197574800-120d5fe0-8ca3-4027-a902-74b02b5994a1.png)
+![Untitled-1](https://user-images.githubusercontent.com/31065758/197574806-749a2c19-55d5-4409-b31e-62b033a51835.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#flutter #android #dart #ui
